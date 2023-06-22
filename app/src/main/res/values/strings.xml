@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FTP_Cliente_J</string>
+    <string name="informarcion_acerca_aplicacon">Sube un archivo</string>
+    <string name="subir_archivo">Subir Archivo</string>
+    <string name="nombre_del_archivo">Nombre del Archivo</string>
+    <string name="nombre">datos.txt</string>
+    <string name="ingresardatos">Ingresar Datos de FTP</string>
+    <string name="info">Información</string>
+    <string name="datos">Configurar Datos</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="ingrese_su_usuario">Ingrese su Usuario</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingrese_su_contrasena">Ingrese su Contraseña</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ingrese_el_servidor">Ingrese el Servidor</string>
+    <string name="servidor_ftp">Servidor FTP</string>
+    <string name="textview">TextView</string>
+    <string name="informarcion_acerca_archivo">"El archivo debe estar la ubicación base de almacenamiento interno del dispositivo: /storage/emulated/0"</string>
+    <string name="conectar">Conectar</string>
+    <string name="modo_pasivo">Modo Pasivo</string>
+</resources>
